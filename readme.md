@@ -52,3 +52,5 @@ This is a simple Blog API project.
 
 - Access the API at `http://127.0.0.1:8000/api/`
 - Access the admin panel at `http://127.0.0.1:8000/admin/`
+
+## As this is a practice project , some information has been kept in this repository , in production this should be avoided .
